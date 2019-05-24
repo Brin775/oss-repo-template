@@ -1,8 +1,9 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Austen Ross
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+Computer Science Major in Early Arch. Born and raised in Rowley, Massachusetts.
+![images/me2.jpg]
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
