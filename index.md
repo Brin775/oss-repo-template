@@ -3,6 +3,12 @@
 
 ## Bio
 Computer Science Major in Early Arch. Born and raised in Rowley, Massachusetts.
+#
+Github Username: Brin775
+#
+Mattermost Handle: @austenross
+#
+Email: rossa6@rpi.edu
 ###
 ![Austen](images/me2.jpg)
 
