@@ -18,3 +18,5 @@ Problem 1: ![Solution](images/cross_1.png)
 Problem 2: ![Solution](images/cross_2.png)
 Problem 3: ![Solution](images/cross_3.png)
 Problem 4: ![Solution](images/cross_4.png)
+# Blockly
+Maze Solution: ![Solution](images/blockly.png)
