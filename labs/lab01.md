@@ -20,3 +20,5 @@ Problem 3: ![Solution](images/cross_3.png)
 Problem 4: ![Solution](images/cross_4.png)
 # Blockly
 Maze Solution: ![Solution](images/blockly.png)
+# Reflection
+I looked into an open source game engine project on github called Godot. It seems like a good candidate because there is already a flow of users submitting bug reports and feature requests to github, and there seems to be a good range of easy and difficult fixes to implement. The engine is coded in C++, which is a language that I'm personally very familiar with. Also, an open source game engine has an interesting workflow in that the "customers" are using the engine to make their own product for their own customers, so it's almost like adding another level to the development hierarchy.
