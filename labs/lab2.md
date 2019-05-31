@@ -1,4 +1,4 @@
 # Part 1 Repo: https://github.com/Brin775/lab2part1
 # Spoon-Knife Repo: https://github.com/Brin775/Spoon-Knife
-# Learn Git Branching:\
+# Learn Git Branching:
 ![Screenshot](images/git_branching.png)\
