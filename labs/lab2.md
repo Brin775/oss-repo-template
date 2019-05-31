@@ -5,3 +5,5 @@
 # PullReq Fork: https://github.com/Brin775/PullReq
 # Diff Screenshot:
 ![Screenshot](images/diff.png)
+# Tag Screenshot:
+![Screenshot](images/tag.png)
