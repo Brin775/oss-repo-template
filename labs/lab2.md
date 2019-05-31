@@ -3,3 +3,5 @@
 # Learn Git Branching:
 ![Screenshot](images/git_branching.png)
 # PullReq Fork: https://github.com/Brin775/PullReq
+# Diff Screenshot:
+![Screenshot](images/diff.png)
