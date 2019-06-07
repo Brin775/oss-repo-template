@@ -1,2 +1,2 @@
 ### Latex File:
-![Latex_File](documents/OSS_Lab_3.pdf)
+[Latex_file](documents/OSS_Lab_3.pdf)
