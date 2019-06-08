@@ -19,3 +19,8 @@ Info on commit history and when commits are typically made.
 ### Authors Tab:
 ![Authors_Tab](images/cybernetics_authors.png)
 Breakdown of when and how often authors have contributed.
+# gource Screenshots:
+![Screenshot1](images/cybernetics_gource1.png)
+Visualization of authors making commits
+![Screenshot2](images/cybernetics_gource2.png)
+Current state of the master branch
