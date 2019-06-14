@@ -7,3 +7,4 @@ The Web's open systems model definitely gave it a huge edge over Gopher. The col
 ### Linux's choice of GPL v2 license
 It makes sense for Linux to use the GPL v2 license, as it is very permissive. It allows users to redistribute the software as long as the orginal code and any modifications are made available. The majority of [Linux's development](https://en.wikipedia.org/wiki/History_of_Linux) was done by an expanding open source community; it makes sense that the project would remain open to public modification. Linus Torvalds has [stated](https://en.wikipedia.org/wiki/Linux#Copyright,_trademark,_and_naming) that he doesn't intend on updating to the GPL v3 license, as it adds unwanted restrictions.
 ### Table Project Link:
+[Link](https://github.com/dpakalarry/OSSLab4Proj)
