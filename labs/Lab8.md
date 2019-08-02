@@ -10,5 +10,6 @@
 ![ps2](images/ps2.png)
 ![ps3](images/ps3.png)
 ![ps4](images/ps4.png)
+![psf](images/pscomplete.png)
 ### Link to Observatory page:
 [Link](https://rcos.io/projects/jarbus/multiagent-particle-envs/profile)
