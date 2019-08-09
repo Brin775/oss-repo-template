@@ -7,7 +7,7 @@
 ### Original images
 ![shirt1](images/shirt.jpg)
 ![sandal1](images/sandal.jpg)
-![coat1](images/coat.jpg)
+![coat1](images/coat.jpeg)
 ### New images
 ![shirt2](images/shirt_grey.png)
 ![sandal2](images/sandal_grey.png)
