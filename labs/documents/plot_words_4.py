@@ -41,7 +41,7 @@ def generate_graph(words):
     lookup = dict((c, lowercase.index(c)) for c in lowercase)
 
     def edit_distance_one(word):
-        for i in range(len(word)):
+        for i in range(1, len(word), 1): ##
             left, c, right = word[0:i], word[i], word[i + 1:]
             j = lookup[c]  # lowercase.index(c)
             for cc in lowercase[j + 1:]:
@@ -75,11 +75,12 @@ if __name__ == '__main__':
           % (nx.number_of_nodes(G), nx.number_of_edges(G)))
     print("%d connected components" % nx.number_connected_components(G))
 
-    for (source, target) in [('cold', 'warm'),
-                             ('love', 'hate'),
-                             ('good', 'evil'),
-                             ('pear', 'beef'),
-                             ('make', 'take')]:
+    for (source, target) in [#('cold', 'warm'),
+                             #('love', 'hate'),
+                             #('good', 'evil'),
+                             #('pear', 'beef'),
+                             #('make', 'take')
+                             ('when', 'worm')]:
         print("Shortest path between %s and %s is" % (source, target))
         try:
             sp = nx.shortest_path(G, source, target)
